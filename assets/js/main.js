@@ -64,12 +64,12 @@ if(form){
 
   // ✅ Redirect when "Yes" is clicked
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "https://boostscale.site/"; // change to your target page
+    window.location.href = "https://trackdock.site/"; // change to your target page
   });
 
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://boostscale.site/"; // change to your target page
+    window.location.href = "https://trackdock.site/"; // change to your target page
   });
 })();
 
@@ -95,11 +95,11 @@ if(form){
   function closeGate(){ bd.style.display='none'; bd.remove(); }  
   // ✅ Redirect when "Yes" is clicked
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "https://boostscale.site/"; // change to your target page
+    window.location.href = "https://trackdock.site/"; // change to your target page
   });
 
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://boostscale.site/"; // change to your target page
+    window.location.href = "https://trackdock.site/"; // change to your target page
   });
 })();
